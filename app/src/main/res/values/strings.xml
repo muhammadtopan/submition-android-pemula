@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Buah-buahan</string>
+    <string name="fruit_name">Nama Buah</string>
+    <string name="fruit_detail">Detail</string>
+    <string name="about">About</string>
+    <string name="this_about_page">Ini Halaman Abou</string>
+    <string name="nama">Muhammad Topan</string>
+    <string name="email">taufanomt@gmail.com</string>
+    <string name="image_splashscreen">Image_Splashscreen</string>
+    <string name="my_frist_app_d">My Frist App :D</string>
+</resources>
